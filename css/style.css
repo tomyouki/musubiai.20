@@ -1,0 +1,265 @@
+@charset "UTF-8";
+/*---------- 変数 ----------*/
+.mask, #wrapper #mainCont > div p:first-child, #wrapper #mainCont #twoDevice h3, #wrapper #mainCont #smartRing #smartRingInner p:before {
+  background: linear-gradient(200deg, #fa8fbf, #8ab0fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/*---------- 変数 ----------*/
+/*---------- wrapper ----------*/
+#wrapper {
+  overflow: hidden;
+  color: #333;
+  /*---------- firstAnimation ----------*/
+  /*---------- firstAnimation ----------*/
+  /*---------- mainCont ----------*/
+  /*---------- mainCoont----------*/
+}
+
+#wrapper #firstAnimation {
+  height: 100vh;
+}
+
+#wrapper #firstAnimation h1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-animation-name: logo;
+          animation-name: logo;
+  -webkit-animation-duration: 2.5s;
+          animation-duration: 2.5s;
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes logo {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  20% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+    -webkit-transition: 0.1s;
+    transition: 0.1s;
+  }
+}
+
+@keyframes logo {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  20% {
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  100% {
+    -webkit-transform: scale(1.3);
+            transform: scale(1.3);
+    -webkit-transition: 0.1s;
+    transition: 0.1s;
+  }
+}
+
+#wrapper #firstAnimation h2 {
+  width: 90%;
+  margin: -15% auto auto auto;
+  -webkit-animation-name: logo;
+          animation-name: logo;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+
+#wrapper #mainCont {
+  position: relative;
+  overflow: auto;
+  overflow-x: hidden;
+  -ms-scroll-snap-type: y mandatory;
+      scroll-snap-type: y mandatory;
+  height: 100vh;
+  /*---------- twoDevice ----------*/
+  /*---------- twoDevice ----------*/
+  /*---------- smartRing ----------*/
+  /*---------- smartRing ----------*/
+  /*---------- smartRingDescription ----------*/
+  /*---------- smartRingDescription ----------*/
+}
+
+#wrapper #mainCont .child {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#wrapper #mainCont > div {
+  position: relative;
+  padding: 7%;
+  scroll-snap-align: start;
+  height: 100vh;
+}
+
+#wrapper #mainCont > div p:first-child {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: .2rem;
+  line-height: 1.8;
+  text-align: left;
+}
+
+#wrapper #mainCont > div p:first-child span {
+  font-size: 1.6rem;
+  margin-bottom: 5%;
+}
+
+#wrapper #mainCont > div p:first-child span span {
+  font-size: 1.4rem;
+  letter-spacing: 0;
+}
+
+#wrapper #mainCont > div p:first-child .ruby {
+  font-size: 1.2rem;
+  letter-spacing: 0;
+}
+
+#wrapper #mainCont #twoDevice {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#wrapper #mainCont #twoDevice h3 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: .3rem;
+  line-height: 1.3;
+  text-align: left;
+}
+
+#wrapper #mainCont #twoDevice h3 span {
+  display: block;
+  font-size: 1rem;
+  letter-spacing: .1rem;
+  margin-bottom: 3%;
+}
+
+#wrapper #mainCont #smartRing #smartRingInner p {
+  font-size: 2.4rem;
+  text-align: center;
+  line-height: 1.1;
+  margin-bottom: 15%;
+  position: relative;
+}
+
+#wrapper #mainCont #smartRing #smartRingInner p:before {
+  content: "#01";
+  font-size: 1.4rem;
+  position: absolute;
+  top: -50%;
+}
+
+#wrapper #mainCont #smartRing #smartRingInner img {
+  width: 60%;
+  margin: 0 auto;
+  -webkit-animation: roll 70s linear infinite;
+          animation: roll 70s linear infinite;
+}
+
+@-webkit-keyframes roll {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+
+@keyframes roll {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  50% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+  100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+}
+
+#wrapper #mainCont #smartRingDescription > p {
+  font-size: 1.4rem;
+  letter-spacing: .1rem;
+  line-height: 1.7;
+}
+
+#wrapper #mainCont #smartRingDescription > img {
+  width: 30%;
+  position: absolute;
+  bottom: 8%;
+  right: -5%;
+  opacity: .8;
+  -webkit-animation: rollDescription 70s linear infinite;
+          animation: rollDescription 70s linear infinite;
+}
+
+@-webkit-keyframes rollDescription {
+  0% {
+    -webkit-transform: translate(-50%, -50%) rotate(0deg);
+            transform: translate(-50%, -50%) rotate(0deg);
+  }
+  50% {
+    -webkit-transform: translate(-50%, -50%) rotate(360deg);
+            transform: translate(-50%, -50%) rotate(360deg);
+  }
+  100% {
+    -webkit-transform: translate(-50%, -50%) rotate(0deg);
+            transform: translate(-50%, -50%) rotate(0deg);
+  }
+}
+
+@keyframes rollDescription {
+  0% {
+    -webkit-transform: translate(-50%, -50%) rotate(0deg);
+            transform: translate(-50%, -50%) rotate(0deg);
+  }
+  50% {
+    -webkit-transform: translate(-50%, -50%) rotate(360deg);
+            transform: translate(-50%, -50%) rotate(360deg);
+  }
+  100% {
+    -webkit-transform: translate(-50%, -50%) rotate(0deg);
+            transform: translate(-50%, -50%) rotate(0deg);
+  }
+}
+
+/*---------- wrapper ----------*/
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,68 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="ã¬ã¤ã¤ã¼_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 477 439" style="" xml:space="preserve" width="477" height="439">
+<style type="text/css">
+	.st0{fill:#E71F19;}
+	.st1{fill:none;stroke:#E71F19;stroke-width:1.7517;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#E71F19;stroke-width:3.5034;stroke-miterlimit:10;}
+	.st3{fill:#E60012;stroke:#E71F19;stroke-width:1.7517;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0 nEsgVsVM_0 svg-elem-1" d="M204.1,180.3c0.9,3.3,2.5,6.5,5,8.8c2.4,2.3,5.6,3.8,8.8,4.7c3.3,0.9,6.7,1.2,10.1,1.4
+				c3.4,0.2,6.8,0.1,10.3,0.1c3.4-0.1,6.9-0.2,10.2-0.6c3.4-0.4,6.7-1.1,9.9-2.2c3.2-1.1,6.2-2.7,8.6-5.2c2.4-2.4,3.8-5.6,4.5-9
+				c-0.2,3.4-1.5,6.9-3.8,9.6c-2.3,2.7-5.4,4.6-8.7,5.9c-6.6,2.5-13.7,3.1-20.6,3.3c-3.5,0.1-6.9,0.1-10.4-0.2
+				c-3.5-0.3-7-0.7-10.4-1.7c-3.4-1-6.6-2.8-9-5.4C206.1,187,204.7,183.7,204.1,180.3z"></path>
+		</g>
+		<path class="st1 nEsgVsVM_1 svg-elem-2" d="M235.2,95.5c0,0-30-3.4-40.7,24.5c-10.7,27.9-2,67.6,0.7,76.2c2.1,6.9,7.9,15.3,18.3,15.5
+			c0,0-10.4,1.4-10.4-34.2c0,0,5.5,9.7,12,7.4c0,0-9.7-12-8.6-40.6c0,0,0.8,17.6,10.5,20.5c0,0-4.5-13.9,4.5-32.1
+			c0,0,0.1,30.3,15.8,30.9c7.7,0.6,7.7,0.6,7.7,0.6l-1.3-5l5.1,3.7c0,0,4.5-18.6,2.6-28.7c9.2,18.1,6.1,29.4,6.1,29.4
+			c9.5-3.5,9.3-21.1,9.3-21.1c2.8,28.5-6.2,41.1-6.2,41.1c6.7,1.9,11.6-8.1,11.6-8.1c2.2,35.5-8.3,34.7-8.3,34.7
+			c10.4-0.8,15.7-9.6,17.4-16.6c0.8-3.1,2-10.2,2.8-19.3c1.4-16.4,1.2-39.3-6.8-56.8C265,90.4,235.2,95.5,235.2,95.5"></path>
+		<path class="st1 nEsgVsVM_2 svg-elem-3" d="M194.2,116.6c0,0-15.4,11.4-24.5,13s-1.8,29.4,18,28.9"></path>
+		<path class="st1 nEsgVsVM_3 svg-elem-4" d="M186.6,162.8c0,0-22.9,32.1-36.6,36.1c-13.7,4,2.1,35.2,25.1,36.2c0,0-16.8-7.5-6.4-28.1
+			S186.6,162.8,186.6,162.8z"></path>
+		<path class="st2 nEsgVsVM_4 svg-elem-5" d="M191.6,116.6l-5.6-0.8c-2-0.3-2.9-2.6-1.5-4.1l6.2-7.1c1.4-1.6,4-0.8,4.4,1.3l0.9,6.4
+			C196.3,114.8,194.1,117,191.6,116.6z"></path>
+		<path class="st1 nEsgVsVM_5 svg-elem-6" d="M277.4,114.1c0,0,16.1,10.5,25.2,11.5c9.1,1.1,3.6,29.3-16.3,29.9"></path>
+		<path class="st1 nEsgVsVM_6 svg-elem-7" d="M287.8,159.8c0,0,24.8,30.6,38.7,33.8s0,35.3-22.8,37.7c0,0,16.4-8.5,4.7-28.4S287.8,159.8,287.8,159.8z"></path>
+		<path class="st2 nEsgVsVM_7 svg-elem-8" d="M278.6,114l5.6-1.1c2-0.4,2.7-2.8,1.3-4.2l-6.6-6.7c-1.5-1.5-4.1-0.6-4.3,1.5l-0.6,6.4
+			C273.8,112.4,276.1,114.5,278.6,114z"></path>
+		<path class="st1 nEsgVsVM_8 svg-elem-9" d="M238.4,209.4c0,0-7.9-10-9.1-12.1c-1.2-2.1-12.1,4.5-12.1,4.5s-18.6,28.9-32.2,50.6
+			c-12.6,15.5-24.1,18.8-24.1,18.8s1.4,26.4,31.9,29.8"></path>
+		<path class="st1 nEsgVsVM_9 svg-elem-10" d="M225.5,231.4c0,0,20.5-32.4,21.5-34.6c1-2.2,12.2,3.8,12.2,3.8s20,27.7,34.6,48.6
+			c13.3,14.7,24.7,17.3,24.7,17.3s0.2,26.4-29.5,31.6"></path>
+		<path class="st1 nEsgVsVM_10 svg-elem-11" d="M220.9,204.7L232.5,218.9"></path>
+		<path class="st1 nEsgVsVM_11 svg-elem-12" d="M254.2,205.1L237.2,232"></path>
+		<path class="st1 nEsgVsVM_12 svg-elem-13" d="M252,246.6c0,0-6.5-13.8-0.4-14C257.6,232.4,252,246.6,252,246.6z"></path>
+		<path class="st3 nEsgVsVM_13 svg-elem-14" d="M251.6,232.5c6.1-0.2,0.4,14,0.4,14S245.5,232.7,251.6,232.5"></path>
+		<path class="st3 nEsgVsVM_14 svg-elem-15" d="M240.3,237.6c4.2-4.4,10.2,9.6,10.2,9.6S236.2,242,240.3,237.6"></path>
+		<path class="st3 nEsgVsVM_15 svg-elem-16" d="M237.3,248.5c-0.1-5.6,13.2-0.7,13.2-0.7S237.4,254.1,237.3,248.5"></path>
+		<path class="st3 nEsgVsVM_16 svg-elem-17" d="M242.5,258.2c-4-3.9,8.9-9.8,8.9-9.8S246.5,262.1,242.5,258.2"></path>
+		<path class="st3 nEsgVsVM_17 svg-elem-18" d="M262.6,236.9c-4.4-4.2-9.6,10.2-9.6,10.2S267,241.1,262.6,236.9"></path>
+		<path class="st3 nEsgVsVM_18 svg-elem-19" d="M266.2,247.6c-0.3-5.6-13.2,0.1-13.2,0.1S266.5,253.2,266.2,247.6"></path>
+		<path class="st3 nEsgVsVM_19 svg-elem-20" d="M261.7,257.6c3.7-4.1-9.5-9.3-9.5-9.3S257.9,261.7,261.7,257.6"></path>
+		<path class="st1 nEsgVsVM_20 svg-elem-21" d="M225.5,231.4c-7.4,0.2-6.6,40.3,1.2,40.1c10.5-0.3,25.1-23.1,25.1-23.1S234.8,231.1,225.5,231.4z"></path>
+		<path class="st1 nEsgVsVM_21 svg-elem-22" d="M277.5,229.8c7.4-0.2,9,39.8,1.2,40.1c-10.5,0.3-26.5-21.5-26.5-21.5S268.2,230.1,277.5,229.8z"></path>
+		<path class="st1 nEsgVsVM_22 svg-elem-23" d="M251.4,249.7c0,0-1.6,60.1-0.6,61.1c0.9,1-13.3,0.4-13.3,0.4S241,256.2,251.4,249.7z"></path>
+		<path class="st1 nEsgVsVM_23 svg-elem-24" d="M252.3,249.6c0,0,5.2,59.9,4.3,61c-0.9,1.1,13.3-0.4,13.3-0.4S263,255.5,252.3,249.6z"></path>
+		<path class="st1 nEsgVsVM_24 svg-elem-25" d="M243.3,371.1l-3.6-3.4l-2.8,3.6l-3-3.1c0,0-6.3,5.2-27.2,0.8c-21-4.3-30.7-35.5-30.7-35.5
+			c13.1-16.8,33.1-63.8,33.1-63.8s22.4,3.1,33.7,2.1"></path>
+		<path class="st1 nEsgVsVM_25 svg-elem-26" d="M251.5,271.7L253.5,271.7"></path>
+		<path class="st1 nEsgVsVM_26 svg-elem-27" d="M262.3,270.2c0,0,1.2,1,9.4-2.4c0,0,22.8,45.7,36.9,61.7c0,0-7.9,31.7-28.5,37.3c-20.7,5.6-27.2,0.8-27.2,0.8
+			l-2.8,3.3l-3-3.4l-3.4,3.6"></path>
+		<path class="st1 nEsgVsVM_27 svg-elem-28" d="M210.3,268.5l-0.4-37.8c0,0,34.5,2.6,59.1-1.8l0.1,3.2"></path>
+		<path class="st1 nEsgVsVM_28 svg-elem-29" d="M222.3,164.9c3.5-0.1,3.8,10.8,0.3,11.2C219.2,176.5,218.8,165,222.3,164.9z"></path>
+		<path class="st1 nEsgVsVM_29 svg-elem-30" d="M253.2,164c3.5-0.1,3.8,10.8,0.3,11.2C250,175.6,249.7,164.1,253.2,164z"></path>
+		<path class="st1 nEsgVsVM_30 svg-elem-31" d="M209.1,243.1c0,0,3.8,1.5,11,1.4"></path>
+		<path class="st1 nEsgVsVM_31 svg-elem-32" d="M209.5,256.4c0,0,3.8,1.5,11,1.4"></path>
+		<path class="st1 nEsgVsVM_32 svg-elem-33" d="M218.9,161.9c0,0,1,3.1,2.2,3.1"></path>
+		<path class="st1 nEsgVsVM_33 svg-elem-34" d="M250.3,160.9c0,0,1,3.1,2.2,3.1"></path>
+		<path class="st1 nEsgVsVM_34 svg-elem-35" d="M233.4,67.7c0,0-6.3,19.2,2.5,29.8C235.8,97.5,210.4,89.1,233.4,67.7z"></path>
+		<path class="st1 nEsgVsVM_35 svg-elem-36" d="M247.3,318.9L248.6,360.9"></path>
+		<path class="st1 nEsgVsVM_36 svg-elem-37" d="M236.7,319.2L238,361.3"></path>
+		<path class="st1 nEsgVsVM_37 svg-elem-38" d="M242.1,319L243.3,361.1"></path>
+	</g>
+</g>
+<style data-made-with="vivus-instant">.nEsgVsVM_0{stroke-dasharray:166 168;stroke-dashoffset:167;animation:nEsgVsVM_draw 2000ms linear 0ms forwards;}.nEsgVsVM_1{stroke-dasharray:698 700;stroke-dashoffset:699;animation:nEsgVsVM_draw 2000ms linear 27ms forwards;}.nEsgVsVM_2{stroke-dasharray:71 73;stroke-dashoffset:72;animation:nEsgVsVM_draw 2000ms linear 54ms forwards;}.nEsgVsVM_3{stroke-dasharray:188 190;stroke-dashoffset:189;animation:nEsgVsVM_draw 2000ms linear 81ms forwards;}.nEsgVsVM_4{stroke-dasharray:40 42;stroke-dashoffset:41;animation:nEsgVsVM_draw 2000ms linear 108ms forwards;}.nEsgVsVM_5{stroke-dasharray:71 73;stroke-dashoffset:72;animation:nEsgVsVM_draw 2000ms linear 135ms forwards;}.nEsgVsVM_6{stroke-dasharray:188 190;stroke-dashoffset:189;animation:nEsgVsVM_draw 2000ms linear 162ms forwards;}.nEsgVsVM_7{stroke-dasharray:40 42;stroke-dashoffset:41;animation:nEsgVsVM_draw 2000ms linear 189ms forwards;}.nEsgVsVM_8{stroke-dasharray:167 169;stroke-dashoffset:168;animation:nEsgVsVM_draw 2000ms linear 216ms forwards;}.nEsgVsVM_9{stroke-dasharray:192 194;stroke-dashoffset:193;animation:nEsgVsVM_draw 2000ms linear 243ms forwards;}.nEsgVsVM_10{stroke-dasharray:19 21;stroke-dashoffset:20;animation:nEsgVsVM_draw 2000ms linear 270ms forwards;}.nEsgVsVM_11{stroke-dasharray:32 34;stroke-dashoffset:33;animation:nEsgVsVM_draw 2000ms linear 297ms forwards;}.nEsgVsVM_12{stroke-dasharray:32 34;stroke-dashoffset:33;animation:nEsgVsVM_draw 2000ms linear 324ms forwards;}.nEsgVsVM_13{stroke-dasharray:32 34;stroke-dashoffset:33;animation:nEsgVsVM_draw 2000ms linear 351ms forwards;}.nEsgVsVM_14{stroke-dasharray:32 34;stroke-dashoffset:33;animation:nEsgVsVM_draw 2000ms linear 378ms forwards;}.nEsgVsVM_15{stroke-dasharray:30 32;stroke-dashoffset:31;animation:nEsgVsVM_draw 2000ms linear 405ms forwards;}.nEsgVsVM_16{stroke-dasharray:30 32;stroke-dashoffset:31;animation:nEsgVsVM_draw 2000ms linear 432ms forwards;}.nEsgVsVM_17{stroke-dasharray:32 34;stroke-dashoffset:33;animation:nEsgVsVM_draw 2000ms linear 459ms forwards;}.nEsgVsVM_18{stroke-dasharray:30 32;stroke-dashoffset:31;animation:nEsgVsVM_draw 2000ms linear 486ms forwards;}.nEsgVsVM_19{stroke-dasharray:31 33;stroke-dashoffset:32;animation:nEsgVsVM_draw 2000ms linear 513ms forwards;}.nEsgVsVM_20{stroke-dasharray:111 113;stroke-dashoffset:112;animation:nEsgVsVM_draw 2000ms linear 540ms forwards;}.nEsgVsVM_21{stroke-dasharray:111 113;stroke-dashoffset:112;animation:nEsgVsVM_draw 2000ms linear 567ms forwards;}.nEsgVsVM_22{stroke-dasharray:139 141;stroke-dashoffset:140;animation:nEsgVsVM_draw 2000ms linear 594ms forwards;}.nEsgVsVM_23{stroke-dasharray:139 141;stroke-dashoffset:140;animation:nEsgVsVM_draw 2000ms linear 621ms forwards;}.nEsgVsVM_24{stroke-dasharray:197 199;stroke-dashoffset:198;animation:nEsgVsVM_draw 2000ms linear 648ms forwards;}.nEsgVsVM_25{stroke-dasharray:2 4;stroke-dashoffset:3;animation:nEsgVsVM_draw 2000ms linear 675ms forwards;}.nEsgVsVM_26{stroke-dasharray:173 175;stroke-dashoffset:174;animation:nEsgVsVM_draw 2000ms linear 702ms forwards;}.nEsgVsVM_27{stroke-dasharray:101 103;stroke-dashoffset:102;animation:nEsgVsVM_draw 2000ms linear 729ms forwards;}.nEsgVsVM_28{stroke-dasharray:27 29;stroke-dashoffset:28;animation:nEsgVsVM_draw 2000ms linear 756ms forwards;}.nEsgVsVM_29{stroke-dasharray:27 29;stroke-dashoffset:28;animation:nEsgVsVM_draw 2000ms linear 783ms forwards;}.nEsgVsVM_30{stroke-dasharray:12 14;stroke-dashoffset:13;animation:nEsgVsVM_draw 2000ms linear 810ms forwards;}.nEsgVsVM_31{stroke-dasharray:12 14;stroke-dashoffset:13;animation:nEsgVsVM_draw 2000ms linear 837ms forwards;}.nEsgVsVM_32{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nEsgVsVM_draw 2000ms linear 864ms forwards;}.nEsgVsVM_33{stroke-dasharray:4 6;stroke-dashoffset:5;animation:nEsgVsVM_draw 2000ms linear 891ms forwards;}.nEsgVsVM_34{stroke-dasharray:70 72;stroke-dashoffset:71;animation:nEsgVsVM_draw 2000ms linear 918ms forwards;}.nEsgVsVM_35{stroke-dasharray:43 45;stroke-dashoffset:44;animation:nEsgVsVM_draw 2000ms linear 945ms forwards;}.nEsgVsVM_36{stroke-dasharray:43 45;stroke-dashoffset:44;animation:nEsgVsVM_draw 2000ms linear 972ms forwards;}.nEsgVsVM_37{stroke-dasharray:43 45;stroke-dashoffset:44;animation:nEsgVsVM_draw 2000ms linear 1000ms forwards;}@keyframes nEsgVsVM_draw{100%{stroke-dashoffset:0;}}@keyframes nEsgVsVM_fade{0%{stroke-opacity:1;}94.44444444444444%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

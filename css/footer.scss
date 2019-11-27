@@ -1,0 +1,23 @@
+/*---------- 変数 ----------*/
+$mainColor : #ff0000;
+/*---------- 変数 ----------*/
+
+footer{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 5%;
+    transform: scale(1.5);
+    p{
+        font-size: .8rem;
+        font-weight: 700;
+        position: unset;
+        text-align: center;
+        color: $mainColor;
+        letter-spacing: .05rem;
+        span{
+            font-size: .6rem;
+            letter-spacing: 0;
+        }
+    }
+}

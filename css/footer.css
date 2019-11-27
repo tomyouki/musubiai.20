@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*---------- 変数 ----------*/
+/*---------- 変数 ----------*/
+footer {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 5%;
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
+}
+
+footer p {
+  font-size: .8rem;
+  font-weight: 700;
+  position: unset;
+  text-align: center;
+  color: #ff0000;
+  letter-spacing: .05rem;
+}
+
+footer p span {
+  font-size: .6rem;
+  letter-spacing: 0;
+}
+/*# sourceMappingURL=footer.css.map */
