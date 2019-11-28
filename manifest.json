@@ -3,7 +3,7 @@
     "name"              : "musubiai2.0 Promotion",
     "short_name"        : "ms2.0 Prom",
     "description"       : "musubiai2.0 Promotion site.",
-    "start_url"         : "/",
+    "start_url"         : "https://miyaomi123.github.io/musubiPromotion/",
     "display"           : "standalone",
     "orientation"       : "any",
     "background_color"  : "#ffffff",
