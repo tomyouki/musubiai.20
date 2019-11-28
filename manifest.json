@@ -2,7 +2,7 @@
     "name"              : "musubiai 2.0",
     "short_name"        : "musubiai",
     "description"       : "MS2020 musubiai 2.0　プロモーションsite",
-    "start_url"         : "/",
+    "start_url"         : "index.html",
     "display"           : "standalone",
     "operation"         : "portrait",
     "scope"             : "/",
